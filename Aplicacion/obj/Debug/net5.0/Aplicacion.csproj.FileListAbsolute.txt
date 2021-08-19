@@ -1,0 +1,17 @@
+D:\Curso\_Net\NetCoreReact\Aplicacion\bin\Debug\net5.0\Aplicacion.deps.json
+D:\Curso\_Net\NetCoreReact\Aplicacion\bin\Debug\net5.0\Aplicacion.dll
+D:\Curso\_Net\NetCoreReact\Aplicacion\bin\Debug\net5.0\ref\Aplicacion.dll
+D:\Curso\_Net\NetCoreReact\Aplicacion\bin\Debug\net5.0\Aplicacion.pdb
+D:\Curso\_Net\NetCoreReact\Aplicacion\bin\Debug\net5.0\Dominio.dll
+D:\Curso\_Net\NetCoreReact\Aplicacion\bin\Debug\net5.0\Persistencia.dll
+D:\Curso\_Net\NetCoreReact\Aplicacion\bin\Debug\net5.0\Dominio.pdb
+D:\Curso\_Net\NetCoreReact\Aplicacion\bin\Debug\net5.0\Persistencia.pdb
+D:\Curso\_Net\NetCoreReact\Aplicacion\obj\Debug\net5.0\Aplicacion.csprojAssemblyReference.cache
+D:\Curso\_Net\NetCoreReact\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\_Net\NetCoreReact\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
+D:\Curso\_Net\NetCoreReact\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
+D:\Curso\_Net\NetCoreReact\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
+D:\Curso\_Net\NetCoreReact\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CopyComplete
+D:\Curso\_Net\NetCoreReact\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
+D:\Curso\_Net\NetCoreReact\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
+D:\Curso\_Net\NetCoreReact\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb

@@ -1,0 +1,15 @@
+D:\Curso\_Net\NetCoreReact\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+D:\Curso\_Net\NetCoreReact\Persistencia\bin\Debug\net5.0\Persistencia.dll
+D:\Curso\_Net\NetCoreReact\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+D:\Curso\_Net\NetCoreReact\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+D:\Curso\_Net\NetCoreReact\Persistencia\bin\Debug\net5.0\Dominio.dll
+D:\Curso\_Net\NetCoreReact\Persistencia\bin\Debug\net5.0\Dominio.pdb
+D:\Curso\_Net\NetCoreReact\Persistencia\obj\Debug\net5.0\Persistencia.csprojAssemblyReference.cache
+D:\Curso\_Net\NetCoreReact\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\_Net\NetCoreReact\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+D:\Curso\_Net\NetCoreReact\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+D:\Curso\_Net\NetCoreReact\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+D:\Curso\_Net\NetCoreReact\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+D:\Curso\_Net\NetCoreReact\Persistencia\obj\Debug\net5.0\Persistencia.dll
+D:\Curso\_Net\NetCoreReact\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+D:\Curso\_Net\NetCoreReact\Persistencia\obj\Debug\net5.0\Persistencia.pdb
